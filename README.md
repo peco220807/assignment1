@@ -18,4 +18,4 @@ Finds the pair of points that are closest to each other in 2D. Current implement
 
 ### 5. Diagram and table in Excel
 #### See the chart in Excel 
--(https://astanait-my.sharepoint.com/:x:/g/personal/240806_astanait_edu_kz/EYhFsb9uB6JGjlzX2Qtap-gBjj9oZTuYFjMHm0iBZrhyGQ?e=7eIlvm)
+- (https://astanait-my.sharepoint.com/:x:/g/personal/240806_astanait_edu_kz/EYhFsb9uB6JGjlzX2Qtap-gBjj9oZTuYFjMHm0iBZrhyGQ?e=7eIlvm)
