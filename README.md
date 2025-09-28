@@ -6,6 +6,9 @@
 Splits the array into halves, sorts each half, and merges them.  
 - Time complexity: O(n log n)  
 - Space complexity: O(n) for temporary arrays.
+#### Chart example:
+<img width="676" height="66" alt="Снимок экрана 2025-09-28 143146" src="https://github.com/user-attachments/assets/c53d459e-305c-4e27-aff5-c99c48f98504" />
+
   
 ### 2. Quick Sort
 Chooses a pivot, partitions the array, and sorts the parts recursively. Average time: O(n log n), worst-case: O(n^2). Stack depth is usually O(log n) if you sort smaller partition first.
