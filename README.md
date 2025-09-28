@@ -21,3 +21,6 @@ Finds the k-th smallest element in the array. Current version sorts the array an
   
 ### 4. Closest Pair of Points
 Finds the pair of points that are closest to each other in 2D. Current implementation checks all pairs (O(n^2)). The classic algorithm can do this in O(n log n) using divide-and-conquer.
+
+### 5. Diagram and table in Exel
+[See the chart in Excel] (https://astanait-my.sharepoint.com/:x:/g/personal/240806_astanait_edu_kz/EYhFsb9uB6JGjlzX2Qtap-gBjj9oZTuYFjMHm0iBZrhyGQ?e=7eIlvm)
